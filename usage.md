@@ -18,6 +18,7 @@ The script will output a file named evil_output.mp4, which is the "evil" version
 
 # All together
 ```
+git clone https://github.com/dumbbutt0/evilMP4.git
 pip install requirements.txt
 python mp4.py
 python evilmp4.py
