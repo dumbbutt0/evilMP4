@@ -3,7 +3,7 @@ This section provides step-by-step instructions on how to use the provided Pytho
 
 # Generating a Standard MP4 File
 Prepare your environment
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 # Run the script:
 Use the mp4.py script to create a standard MP4 file. This script generates a simple MP4 video with predefined content.
 The script will output a file named output.mp4 in the current directory.
@@ -19,7 +19,7 @@ The script will output a file named evil_output.mp4, which is the "evil" version
 # All together
 ```
 git clone https://github.com/dumbbutt0/evilMP4.git
-pip install requirements.txt
+pip install -r requirements.txt
 python mp4.py
 python evilmp4.py
 ```
