@@ -1,5 +1,5 @@
 # evilMP4
-Explore CVE-2022-41741 with the Evil MP4 repository. It offers educational PoCs, mitigation strategies, and detailed documentation on securing nginx against MP4 file vulnerabilities. For legal, ethical security testing only.
+Explore CVE-2022-41741 with the Evil MP4 repository. It offers educational PoCs, and detailed documentation on securing nginx against MP4 file vulnerabilities. For legal, ethical security testing only.
 
 This repository provides tools, documentation, and examples for understanding and demonstrating CVE-2022-41741, an out-of-bounds read vulnerability in the ngx_http_mp4_module of nginx. The vulnerability can allow attackers to gain unauthorized access to potentially sensitive information or perform a denial of service attack by processing specially crafted MP4 files.
 
